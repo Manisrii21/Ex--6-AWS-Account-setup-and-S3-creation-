@@ -1,6 +1,6 @@
 # Ex.2 Cloud Storage Creation (S3) and Launching an EC2 Instance in AWS
-#  NAME :  AMIRTHAVARSHINI.R.D
-# REG NO : 212223040013
+#  NAME :  M MANI SRI LATHA
+# REG NO : 212223110025
 
 ## Aim
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
